@@ -1,4 +1,4 @@
-# AWSCloudforWebAppSetup_LiftandShift
+# AWS Cloud for Web App Setup [Lift & Shift]
 
 ## About the Project
 - Multi Tier Web Application Stack. 
