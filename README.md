@@ -41,6 +41,7 @@
 - Rout 53
 
 ![Architecture1!](images/Architecture1.png)
+![Architecture2!](images/Architecture2.png)
 
 ## Flow of Execution
 1. Login to AWS Account
